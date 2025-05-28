@@ -3,7 +3,7 @@
 #include <time.h>
 #include <string.h>
 #include "jogo.h"
-#include "funcoespadroes.h"
+#include "funcoes.h"
 
 // Função interna para selecionar perguntas de um nível específico
 void selecionarPerguntasNivel(BancoDeQuestoes* banco, Pergunta* destino, int* indice, int nivel, int qtd) {
