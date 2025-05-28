@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <locale.h>
 #include "pergunta.h"
-#include "funcoespadroes.h"
+#include "funcoes.h"
 #include "jogo.h"
 
 void exibirMenu() {
