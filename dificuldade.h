@@ -1,6 +1,6 @@
 #ifndef DIFICULDADE_H
 #define DIFICULDADE_H
-
+//nd
 typedef enum {
     NIVEL_MUITO_FACIL = 1,
     NIVEL_FACIL,
